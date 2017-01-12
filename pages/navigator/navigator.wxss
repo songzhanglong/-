@@ -1,0 +1,13 @@
+/* pages/navigator/navigator.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.navigator-hover{
+    color: blue
+}
+
+.other-navigator-hover{
+    color: red
+}

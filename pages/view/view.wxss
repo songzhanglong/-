@@ -1,0 +1,41 @@
+/* pages/view/view.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.container{
+    padding: 0
+}
+
+.section{
+    width: 100%;
+}
+
+.section-title{
+    padding-top: 80rpx;
+}
+
+.flex-wrp {
+    background-color: white;
+    display: flex
+}
+
+.flex-item{
+    width: 150rpx;
+    height: 150rpx;
+    text-align: center;
+    line-height: 150rpx
+}
+
+.bc_green{
+    background-color: green
+}
+
+.bc_red{
+    background-color: red
+}
+
+.bc_blue{
+    background-color: blue
+}

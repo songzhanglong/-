@@ -1,0 +1,4 @@
+<!--pages/contact-button/contact-button.wxml-->
+<view class="container">
+    <contact-button type="default-light" size="20" session-from="weapp" style="background-color:red"></contact-button>
+</view>

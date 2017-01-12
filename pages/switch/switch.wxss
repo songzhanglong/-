@@ -1,0 +1,5 @@
+/* pages/switch/switch.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}

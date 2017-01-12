@@ -1,0 +1,25 @@
+/* pages/input/input.wxss */
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.section{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+input {
+    padding: 10px;
+    background-color: white
+}
+
+.btn-area{
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.section__title{
+    margin-left: 10px;
+    margin-right: 10px;
+}

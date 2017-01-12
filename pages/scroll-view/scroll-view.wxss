@@ -1,0 +1,60 @@
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.scroll-list {
+    padding: 0
+}
+
+.section{
+    width: 100%;
+}
+
+.section-title{
+    padding-top: 80rpx;
+}
+
+.scroll-view-item {
+    height: 150px
+}
+
+.bc_green {
+    background-color: green
+}
+
+.bc_red {
+    background-color: red
+}
+
+.bc_yellow {
+    background-color: yellow
+}
+
+.bc_blue {
+    background-color: blue
+}
+
+.btn-area {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.scroll-view_H{
+    width: 100%;
+    background-color: antiquewhite;
+    white-space: nowrap;
+}
+
+.scroll-view-item_H {
+    width: 250rpx;
+    height: 250rpx;
+    display: inline-block;
+    margin-left: 10px
+}

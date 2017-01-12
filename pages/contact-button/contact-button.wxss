@@ -1,0 +1,4 @@
+/* pages/contact-button/contact-button.wxss */
+page{
+    background-color: rgb(251, 249, 254);
+}

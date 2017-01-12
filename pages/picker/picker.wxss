@@ -1,0 +1,15 @@
+/* pages/picker/picker.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.picker-demo {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.section{
+    width: 100%;
+    margin-bottom: 20px;
+}

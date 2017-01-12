@@ -1,0 +1,19 @@
+/* pages/text/text.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.btn-area{
+    width:100%;
+}
+
+.body-view{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+button{
+    width: 100%;
+    margin-top: 10px;
+}

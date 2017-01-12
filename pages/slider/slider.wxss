@@ -1,0 +1,15 @@
+/* pages/slider/slider.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.slider-demo {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.section{
+    width: 100%;
+    margin-bottom: 10px;
+}

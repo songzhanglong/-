@@ -1,0 +1,5 @@
+<!--pages/switch/switch.wxml-->
+<view class="container">
+    <switch bindchange="switch1Change" checked/>
+    <switch bindchange="switch2Change"/>
+</view>

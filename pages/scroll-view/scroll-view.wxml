@@ -1,0 +1,26 @@
+<view class="container scroll-list">
+    <view class="section">
+        <view class="section-title">vertical scroll</view>
+        <scroll-view scroll-y="true" style="height:200px;" scroll-top="{{scrollTop}}" scroll-into-view="{{toView}}" bindscrolltoupper="upper" bindscrolltolower="lower">
+            <view id="green" class="scroll-view-item bc_green"></view>
+            <view id="red" class="scroll-view-item bc_red"></view>
+            <view id="yellow" class="scroll-view-item bc_yellow"></view>
+            <view id="blue" class="scroll-view-item bc_blue"></view>
+        </scroll-view>
+
+        <view class="btn-area">
+            <button size="mini" bindtap="tap">click me to scroll into view </button>
+            <button size="mini" bindtap="tapMove">click me to scroll</button>
+        </view>
+    </view>
+
+    <view class="section section_gap">
+        <view class="section-title">horizontal scroll</view>
+        <scroll-view class="scroll-view_H" scroll-x="true">
+            <view id="green_H" class="scroll-view-item_H bc_green"></view>
+            <view id="red_H" class="scroll-view-item_H bc_red"></view>
+            <view id="yellow_H" class="scroll-view-item_H bc_yellow"></view>
+            <view id="blue_H" class="scroll-view-item_H bc_blue" style="margin-right:10px;"></view>
+        </scroll-view>
+    </view>
+</view>

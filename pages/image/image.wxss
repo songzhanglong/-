@@ -1,0 +1,18 @@
+/* pages/image/image.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.image-demo {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.page__hd,.page__bd{
+    width:100%
+}
+
+.section__title{
+    margin-top: 10px;
+}

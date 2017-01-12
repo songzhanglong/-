@@ -1,0 +1,24 @@
+/* pages/textarea/textarea.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.textarea-demo {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.section{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+textarea{
+    width: 100%;
+    border: 1px solid lightgray;
+}
+
+button{
+    margin-top: 5px;
+}

@@ -1,0 +1,10 @@
+/* pages/form/form.wxss */
+
+.section {
+    width: 690rpx;
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 10px;
+}

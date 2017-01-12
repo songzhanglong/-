@@ -1,0 +1,19 @@
+/* pages/radio/radio.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+.radio-demo {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+radio-group{
+    width: 100%
+}
+
+radio{
+    display: block;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,10 @@
+/* pages/progress/progress.wxss */
+
+page{
+    background-color: rgb(251, 249, 254);
+}
+
+progress{
+    width: 710rpx;
+    margin-bottom: 20px;
+}
